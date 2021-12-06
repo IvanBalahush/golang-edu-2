@@ -1,3 +1,3 @@
-package students
-
+<<<<<<< HEAD
 func ivan() {}
+====== =
