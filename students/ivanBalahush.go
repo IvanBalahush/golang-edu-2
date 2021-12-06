@@ -1,3 +1,1 @@
 package students
-
-func ivan() {}
