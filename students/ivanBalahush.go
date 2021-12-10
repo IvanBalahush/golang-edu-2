@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-func ivan() {}
-====== =
+package students
